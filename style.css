@@ -1,0 +1,220 @@
+body{
+    margin: 0%;
+}
+header{
+    width:100%;
+    height: 95px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    padding: 10px; 
+  
+}
+.icon1{
+    width: 120px;
+    height: 65px;
+    margin-left:40px;
+    
+}
+.logo1{
+    width: 120px;
+    height: 65px;
+   
+}
+nav{
+   
+    font-size: 16px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 10px;
+    padding: 20px;
+    
+}
+nav a{
+    text-decoration: none;
+    margin-left: 25px;
+    color: white;
+
+}
+.icon2{
+    font-size: 25px;
+    display: flex;
+    
+    
+} 
+.fa{
+    margin-right: 30px;
+    color: #be9509;
+}
+.bannerimg{
+    width: 100%;
+    height: 120vh;
+}
+
+h1{
+    font-size: 46px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-left: 300px;
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img1{
+    width: 277px;
+    height: 210px;
+    background-image: url(./images/sugerfree\(1\)3.png);
+    background-size: cover;
+    margin-left: 80px;
+}
+.img2{
+    width: 277px;
+    height: 210px;
+    background-image: url(./images/basic\ series.png);
+    background-size: cover;
+    margin-left: 80px;
+}
+.img3{
+    width: 277px;
+    height: 210px;
+    background-image: url(./images/indulgence\ series.png);
+    background-size: cover;
+    margin-left: 80px;
+
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.img4{
+    width: 277px;
+    height:203px;
+    background-image: url(./images/premium\ series.png);
+    background-size: cover;
+    margin-left: 80px;
+}
+.img5{
+    width: 277px;
+    height: 203px;
+    background-image: url(./images/ethnic\ series.png);
+    background-size: cover;
+    margin-left: 80px;
+}
+.img6{
+    width: 277px;
+    height: 203px;
+    background-image: url(./images/natural\ series.png);
+    background-size: cover;
+    margin-left: 80px;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    height: 400px;
+}
+.img7{
+    width: 277px;
+    height: 203px;
+    background-image: url(./images/botique\ series.jpg);
+    background-size: cover;
+    margin-left: 80px;
+}
+.middle h2{
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 500;
+    margin-top: 250px;
+}
+.lower{
+    width: 100%;
+    height: 200px;
+    background-color: #be9509;
+}
+footer1{
+    width: 100%;
+    height: 220px;
+    background-color: black;
+}
+.ftr1{
+    /* position: relative; */
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.img8{
+    width: 150px;
+    height: 120px;
+    background-image: url(./images/simons.png);
+    background-size: cover;
+    margin-top: 10px;
+   
+}
+h3{
+    font-size: large;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 50;
+    color: #be9509;
+}
+.txt1,.txt2,.txt3,.txt4{
+    color: #be9509;
+    text-align: justify;
+    line-height: 20px;
+}
+
+.scl{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: space-between;
+
+
+}
+.last{
+    width: 150px;
+    height: 120px;
+    background-image: url(./images/premium\ gold.png);
+    background-size: cover;
+    margin-right: 100px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+footer2{
+    width: 100%;
+    height: 80px;
+    margin-top: .3px;
+    background-color: black;
+}
+.ftr2{
+    
+    text-align: left;
+    color: #be9509;
+    margin: 30px;
+
+}
+
+
+
+
+
+
+
+
+
